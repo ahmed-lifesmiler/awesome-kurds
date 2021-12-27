@@ -29,6 +29,7 @@ add other awesome Kurds, including you!
 - [Ahmed Abdullah](https://github.com/Ahmad-Qadir): Node, API, NoSQL, Flutter
 - [Ahmad Soran](https://github.com/ahmadsoran)
 - [Ahmad Saeed](https://github.com/AhmadSaeed96)
+- [Ahmed Alyousify](https://twitter.com/ahmedalyousify): Augmented Reality, Virtual Reality, 360 Photography
 - [Akam Foad](https://twitter.com/AkamFoad): React, Node, API, TypeScript, Full-stack, Web
 - [Akar Mohammed](https://github.com/AkarM13)
 - [Alan Hilal](https://github.com/AlanHilal)
